@@ -6,10 +6,6 @@ print "hell what is this"
 #for i in range(12):
 #	print i
 
-# what are you doing now 
+# here is my last change
 
-# i am just learing git
-
-i=10
-while(i<50):
-	print i
+print "finish"
